@@ -10,7 +10,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with ey~  or get session id from here,  https://charle-ke.onrender.com/",
-        "value":"",
+        "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkVxaEhRY1JhM1gzL2xFd29RNTF5ZU0zVHc1QVQwN2NqODFWcno5K3VGOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicnFVYWFhMXl5Zmw0bzNybnFBUmIrbEtiRlI5TFNuK3M5VkpKcGUwR1Aydz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ3S3Fxdk5LQkppVThtd3RJdlpmM2FhMzRMZUxPM1VGTDdlTmRRZ25DSEZjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFVUJJM0xFbG01L0N3eC9DTTFURk5QZ09WSytWcW9sVEVZSm5JUStRUVJNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllOSFY0bDhuMlNRK3JleXdKSTdLYnFiZVYrMUN0SU9RcXlBOGY1cExvSEE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVtL3VDVlc3V2REZTN2Vm9jTEZlSzJhN0ppa1Vnbk84Mi9KckQ1a0NEbVU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkZSU0ZoQ1ZjRXB2NzlLM1IrbWtCRHVzZ3V0WjJYQ1orWXJZaHdwQ2gzUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSDVLZHhUaXdBNnlEWjNudEJLeCtQcVlFMldZdUJoT01aWEpYQWI2bnNnOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxkMWZMc0FXNkhxZUM3MkkxSlljTGlGUlpaS3htajhLNndDZ2d5Sm5ZUjcyd05HVU9NeDQ1SXpPZmd1ejhNakV2a2xBdFdPL04wc2hWRkFWZVowY2d3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTM2LCJhZHZTZWNyZXRLZXkiOiI0QVBaLzhZeDU3UHRnNkE3cFpGQjZvT2RZemF1Y1ZXOE96bXpsZjVTcUFjPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NDcxNTQyOTQxNEBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIwQjZFNTRFRDkxQThEMEZGODUyRUNCNTdGQTc3MEQxMSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzUwNDQ2NTE0fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTQ3MTU0Mjk0MTRAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiNjYzQjgxNEEzREMyMjUxN0Q0Mjc1QTRFMUIxMTVCNDgifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1MDQ0NjUxNX0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0NzE1NDI5NDE0QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkE3QTRFREVGRUEwNDMzM0FGRjdEQUQ1OTA4ODkxNUU5In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTA0NDY1MzF9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IjJBUVNMUzZHIiwibWUiOnsiaWQiOiIyNTQ3MTU0Mjk0MTQ6MzFAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiIxOTk5Mzk2NTMxMTYxMTA6MzFAbGlkIiwibmFtZSI6ImNhcmwg8J+YjfCfpbUifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ08vTnMxY1FudVBXd2dZWUF5QUFLQUE9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ik5mYStVbUhyL1d5QzNXOHVwM2l4aVBTWWxkKzExRWgraWVLNzlsZ3BXeVk9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjNtNlhIZW8rMFZmNmxqc2xBd203N3ByRnJoRDNRUzA2cHh1NXlYWFo5SCtJbWoyYkl4N1FUYUFicXU1MkxWYXdQOVVrRXpaemNnQmI5VlBUY3paRkNRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJraUtvL2hrRTJXQnphaXdFWjF5c250L2YvcVBDa3JtZVRUVzcxaGN0YUNuMVBKeWJ1TmlIZHFEbW4xYWpsZ2o1RlVSbktFZ2MvNHpBaXI5Y1RkclRqQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDcxNTQyOTQxNDozMUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJUWDJ2bEpoNi8xc2d0MXZMcWQ0c1lqMG1KWGZ0ZFJJZm9uaXUvWllLVnNtIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQUlJQ0E9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTA0NDY1MDgsImxhc3RQcm9wSGFzaCI6IjFLNGhINCIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBRkJVIn0=",
         "required": true        
     },
       "PREFIX": {
@@ -30,8 +30,8 @@
     },        
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
    },      
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
@@ -50,23 +50,23 @@
    }, 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "false"
    }, 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "false"   
    },     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "PRINCE"
+      "value": "CARLSON"
    }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255763834140"
+      "value": "254715429414"
    }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
@@ -90,23 +90,23 @@
     },    
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },    
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": false,
-      "value": "false"      
+      "required": true,
+      "value": "true"      
     },    
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
